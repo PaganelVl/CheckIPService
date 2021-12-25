@@ -1,0 +1,2 @@
+rich==10.16.1
+ip2geotools==0.1.6
